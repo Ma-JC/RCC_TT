@@ -1,0 +1,11 @@
+Part[[:space:]]4.2.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]4.3.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]4.4.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]1.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]2.1.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]2.2.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]3.1.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]3.2.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]5.1.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]4.1.ipynb filter=lfs diff=lfs merge=lfs -text
+Part[[:space:]]5.2.ipynb filter=lfs diff=lfs merge=lfs -text
